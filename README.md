@@ -8,4 +8,4 @@ $ git clone https://github.com/kentang13336/making..py
 
 $ cd making..py
 
-$ python jonhen.py
+$ python jon-enc.py
