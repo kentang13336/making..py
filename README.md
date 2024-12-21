@@ -10,4 +10,5 @@ $ cd making..py
 
 $ git pull 
 
-$ python jon-enc.py
+$ python sabun.py
+
