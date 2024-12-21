@@ -10,5 +10,5 @@ $ cd making..py
 
 $ git pull 
 
-$ python sabun.py
+$ python free_enc.run.py
 
